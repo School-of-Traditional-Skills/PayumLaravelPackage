@@ -24,8 +24,8 @@ The gateway config storage should be registered like this:
 ```php
 // bootstrap/start.php
 
-use BracketSpace\PayumLaravelPackage\Storage\EloquentStorage;
-use BracketSpace\PayumLaravelPackage\Model\GatewayConfig;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Storage\EloquentStorage;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Model\GatewayConfig;
 
 App::resolving('payum.builder', function(\Payum\Core\PayumBuilder $payumBuilder) {
     $payumBuilder

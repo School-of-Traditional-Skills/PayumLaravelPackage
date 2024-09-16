@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Storage;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Storage;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Query\Builder;

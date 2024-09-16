@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Controller;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Controller;
 
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Routing\Redirector;

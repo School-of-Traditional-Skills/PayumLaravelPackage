@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Controller;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Controller;
 
 use Payum\Core\Bridge\Symfony\ReplyToSymfonyResponseConverter as ReplyConverter;
 use Payum\Core\Payum;

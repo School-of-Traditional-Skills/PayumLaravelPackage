@@ -1,10 +1,10 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage;
 
-use BracketSpace\PayumLaravelPackage\Action\GetHttpRequestAction;
-use BracketSpace\PayumLaravelPackage\Action\ObtainCreditCardAction;
-use BracketSpace\PayumLaravelPackage\Security\TokenFactory;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Action\GetHttpRequestAction;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Action\ObtainCreditCardAction;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Security\TokenFactory;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\ServiceProvider;
 use Payum\Core\Bridge\Symfony\ReplyToSymfonyResponseConverter;

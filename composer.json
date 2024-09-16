@@ -1,5 +1,5 @@
 {
-    "name": "bracketspace/payum-laravel-package",
+    "name": "school-of-traditional-skills/payum-laravel-package",
     "type": "library",
     "description": "Rich payment solutions for Laravel framework. Paypal, payex, authorize.net, be2bill, omnipay, recurring paymens, instant notifications and many more",
     "keywords": [
@@ -21,6 +21,10 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "School of Traditional Skills",
+            "email": "dev@schooloftraditionalskills.com"
+        },
+        {
             "name": "BracketSpace",
             "email": "support@bracketspace.com"
         },
@@ -38,18 +42,18 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
-        "illuminate/container": "^9.0",
-        "illuminate/routing": "^9.0",
-        "illuminate/support": "^9.0",
+        "php": ">=8.1",
+        "illuminate/container": "^10.0",
+        "illuminate/routing": "^10.0",
+        "illuminate/support": "^10.0",
         "payum/core": "^1.7"
     },
     "require-dev": {
         "symfony/http-client": "^6.0",
         "squizlabs/php_codesniffer": "^3.7",
-        "phpstan/phpstan": "^1.8",
-        "nunomaduro/larastan": "^2.1",
-        "orchestra/testbench": "^7.6"
+        "phpstan/phpstan": "^1.10.12",
+        "nunomaduro/larastan": "^2.4",
+        "orchestra/testbench": "^8.26"
     },
     "suggest": {
         "payum/paypal-express-checkout-nvp": "If you want to use paypal express checkout nvp gateway",
@@ -62,7 +66,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BracketSpace\\PayumLaravelPackage\\": "src/"
+            "SchoolOfTraditionalSkills\\PayumLaravelPackage\\": "src/"
         }
     },
     "extra": {

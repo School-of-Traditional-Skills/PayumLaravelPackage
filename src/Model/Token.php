@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Model;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Model;
 
 use Illuminate\Database\Eloquent\Model;
 use Payum\Core\Security\TokenInterface;

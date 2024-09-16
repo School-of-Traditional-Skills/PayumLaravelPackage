@@ -25,7 +25,7 @@ Register provider:
 
 return array(
     'providers' => array(
-        'BracketSpace\PayumLaravelPackage\PayumServiceProvider',
+        'SchoolOfTraditionalSkills\PayumLaravelPackage\PayumServiceProvider',
     ),
 );
 ```
@@ -85,7 +85,7 @@ Lets create a controller where we prepare the payment details.
 <?php
 // app/controllers/PaypalController.php
 
-use BracketSpace\PayumLaravelPackage\Controller\PayumController;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Controller\PayumController;
 
 class PaypalController extends PayumController
 {

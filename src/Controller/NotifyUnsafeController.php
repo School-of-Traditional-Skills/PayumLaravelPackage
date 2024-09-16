@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Controller;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Controller;
 
 use Payum\Core\Payum;
 use Payum\Core\Reply\ReplyInterface;

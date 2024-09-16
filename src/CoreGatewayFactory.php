@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage;
 
 use Illuminate\Contracts\Container\Container;
 use Payum\Core\Bridge\Spl\ArrayObject;

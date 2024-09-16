@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Security;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Security;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\URL;

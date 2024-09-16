@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Cast;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Cast;
 
 use Illuminate\Contracts\Database\Eloquent\CastsAttributes;
 

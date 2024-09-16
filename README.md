@@ -1,6 +1,6 @@
 <h2 align="center">Payum Laravel Package</h2>
 
-Fork of the Laravel Package with Laravel 9+ support is maintanced by BracketSpace.
+Fork of the Laravel Package with Laravel 10+ support is maintanced by SchoolOfTraditionalSkills.
 
 Payum is an MIT-licensed open source project with its ongoing development made possible entirely by the support of community and our customers.
 

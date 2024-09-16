@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Registry;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Registry;
 
 use Illuminate\Container\Container;
 use Payum\Core\Registry\AbstractRegistry;

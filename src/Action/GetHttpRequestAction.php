@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Action;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Action;
 
 use Payum\Core\Bridge\Symfony\Action\GetHttpRequestAction as SymfonyGetHttpRequestAction;
 

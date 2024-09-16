@@ -1,6 +1,6 @@
 <?php
 
-namespace BracketSpace\PayumLaravelPackage\Action;
+namespace SchoolOfTraditionalSkills\PayumLaravelPackage\Action;
 
 use Illuminate\Support\Facades\View;
 use Payum\Core\Action\ActionInterface;

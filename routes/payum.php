@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use BracketSpace\PayumLaravelPackage\Controller;
+use SchoolOfTraditionalSkills\PayumLaravelPackage\Controller;
 
 Route::as('payum.')->prefix('payum')->group(function () {
 	Route::as('authorize')->any('authorize/{payum_token}', Controller\AuthorizeController::class);
